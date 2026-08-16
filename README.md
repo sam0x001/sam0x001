@@ -1,17 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A person who is interested in web applications security</h3>
+# 🛠️ Hi, I'm Sam (`sam0x001`) 👋
 
-- 🔭 I’m currently working on **web hacking**
+Cybersecurity Enthusiast focused on building security tools, testing application resilience.
 
-- 🌱 I’m currently learning **Cyber Security**
+🌐 **Portfolio:** [saminium.vercel.app](https://saminium.vercel.app) | ✍️ **Blog:** [saminium.vercel.app/blog](https://saminium.vercel.app/blog)
 
-- 📫 How to reach me **Saminium@duck.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sam00x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam00x01" height="30" width="40" /></a>
-<a href="https://instagram.com/sam0x001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam0x001" height="30" width="40" /></a>
+### 🚀 Highlights & Projects
+
+- 🔍 **[WebStalker](https://github.com/sam0x001/WebStalker):** Python utility for web reconnaissance, OSINT gathering, and site inspection.
+- ⚡ **Personal Site & Blog:** [saminium.vercel.app](https://saminium.vercel.app)
+- 🎯 **Focus Areas:** Web Application Security, Bug Hunting, Web Pentest & Security, Python Automation, Linux Environments.
+
+---
+
+### 💻 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sam0x001&show_icons=true&theme=dark&hide_border=true" alt="Sam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam0x001&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam0x001&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+[![Website](https://img.shields.io/badge/Portfolio-saminium.vercel.app-blue?style=flat-square&logo=vercel)](https://saminium.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-saminium.vercel.app%2Fblog-orange?style=flat-square&logo=hashnode&logoColor=white)](https://saminium.vercel.app/blog)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Cyber0x01-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Cyber0x01)
+[![X/Twitter](https://img.shields.io/badge/X-Sam00x01-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Sam00x01)
+[![Instagram](https://img.shields.io/badge/Instagram-sam0x001-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sam0x001)
+[![GitHub](https://img.shields.io/badge/GitHub-sam0x001-181717?style=flat-square&logo=github)](https://github.com/sam0x001)
