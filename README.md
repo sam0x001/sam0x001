@@ -9,6 +9,7 @@ Cybersecurity Enthusiast focused on building security tools, testing application
 ### 🚀 Highlights & Projects
 
 - 🔍 **[WebStalker](https://github.com/sam0x001/WebStalker):** Python utility for web reconnaissance, OSINT gathering, and site inspection.
+- 🕳️ **[BlackHole Focus](https://github.com/sam0x001/BlackHole-Focus):** Minimalist focus and productivity tool designed to block digital distractions.
 - ⚡ **Personal Site & Blog:** [saminium.vercel.app](https://saminium.vercel.app)
 - 🎯 **Focus Areas:** Web Application Security, Bug Hunting, Web Pentest & Security, Python Automation, Linux Environments.
 
@@ -26,11 +27,6 @@ Cybersecurity Enthusiast focused on building security tools, testing application
 ---
 
 ### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam0x001&show_icons=true&theme=dark&hide_border=true" alt="Sam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam0x001&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam0x001&theme=dark&hide_border=true" alt="GitHub Streak" />
