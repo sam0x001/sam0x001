@@ -40,6 +40,6 @@ Cybersecurity Enthusiast focused on building security tools, testing application
 [![Website](https://img.shields.io/badge/Portfolio-saminium.vercel.app-blue?style=flat-square&logo=vercel)](https://saminium.vercel.app)
 [![Blog](https://img.shields.io/badge/Blog-saminium.vercel.app%2Fblog-orange?style=flat-square&logo=hashnode&logoColor=white)](https://saminium.vercel.app/blog)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Cyber0x01-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Cyber0x01)
-[![X/Twitter](https://img.shields.io/badge/X-Sam00x01-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Sam00x01)
+[![X/Twitter](https://img.shields.io/badge/X-Sam00x01-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/s0xdead)
 [![Instagram](https://img.shields.io/badge/Instagram-sam0x001-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sam0x001)
 [![GitHub](https://img.shields.io/badge/GitHub-sam0x001-181717?style=flat-square&logo=github)](https://github.com/sam0x001)
